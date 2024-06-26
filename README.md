@@ -1,1 +1,1 @@
-made the first change
+This is Popular Movie App that fetch latest Movie and its Details 
