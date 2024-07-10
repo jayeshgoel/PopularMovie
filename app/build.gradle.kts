@@ -43,6 +43,7 @@ dependencies {
     implementation("androidx.swiperefreshlayout:swiperefreshlayout:1.1.0")
 
     implementation("com.github.bumptech.glide:glide:4.16.0")
+    implementation("androidx.activity:activity:1.8.0")
     // glide support fetching,decoding and displaying video stills,images and animated GIFs
 
     annotationProcessor( "com.github.bumptech.glide:compiler:4.16.0")
